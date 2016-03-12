@@ -3,6 +3,7 @@
 a [Sails](http://sailsjs.org) application for auth based on RESTful APIs.
 
 
+## SET UP
 
 
 - ``sails new authApp``
