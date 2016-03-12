@@ -1,8 +1,8 @@
 # authapp
 
-a [Sails](http://sailsjs.org) application
+a [Sails](http://sailsjs.org) application for auth based on RESTful APIs.
 
-http://maangalabs.com/blog/2014/10/25/waterlock-easy-authentication-in-sails/
+
 
 
 - ``sails new authApp``
@@ -125,4 +125,5 @@ module.exports.routes = {
 
 ``http://localhost:1337/auth/login``  POST
 
-
+### NOTES
+http://maangalabs.com/blog/2014/10/25/waterlock-easy-authentication-in-sails/
