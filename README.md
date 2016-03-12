@@ -123,6 +123,8 @@ module.exports.routes = {
 
 ``http://localhost:1337/post/restricted`` GET
 
+``http://localhost:1337/post/register`` POST
+
 ``http://localhost:1337/auth/login``  POST
 
 ### NOTES
